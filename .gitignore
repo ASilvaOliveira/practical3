@@ -12,6 +12,10 @@
 # Start by ignoring everything, and below we are explicitly saying
 # what to not ignore
 *
+#######################
+
+# Include all .xlsx files located in the documentation folder
+!documentation/*.xlsx
 
 #######################
 # List of files with GitHub functionality anywhere in the repo
